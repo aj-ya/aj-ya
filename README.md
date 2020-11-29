@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey! 👋
+I'm Ajeya, a 19 years old CSE undergrad student from India.
 
+## Skills
+- 💻 C++,C,Python
+- 👨‍💻 HTML,CSS,JavaScript
+## Learning
+- ⚙️ React, Vue
+- 👁️ SASS, Stylus
+- 💽 MySQL, SQL, Mongo
 <!--
-**aj-ya/aj-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](https://twitter.com/instagram) on Instagram
+- [Marton#6513](./) on Discord
