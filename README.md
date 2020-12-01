@@ -5,7 +5,7 @@ I'm Ajeya, a 19 years old CSE undergrad student from India.
 - 💻 C++,C,Python
 - 👨‍💻 HTML,CSS,JavaScript
 ## Learning
-- ⚙️ React, Vue
+- ⚙️ ReactJS, VueJS , NodeJS
 - 👁️ SASS, Stylus
 - 💽 MySQL, SQL, Mongo
 <!--
