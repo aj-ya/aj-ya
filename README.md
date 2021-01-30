@@ -5,8 +5,8 @@ I'm Ajeya, a 19 years old CSE undergrad student from India.
 - 💻 C++,C,Python
 - 👨‍💻 HTML,CSS,JavaScript
 ## Learning
-- ⚙️ ReactJS, NodeJS
-- 👁️ SASS
+- ⚙️ ReactJS, NodeJS, VueJS, Angular, AsyncJS, RxJs and D3JS
+- 👁️ SASS Webpack
 <!--
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
