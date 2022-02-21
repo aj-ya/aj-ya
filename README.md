@@ -3,7 +3,7 @@
 <p ><b>I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS!</b></p>
 <img align="right" src="./octocat.gif" alt="octocat"></img>
 
-```json
+```js
 {
     code: ["C", "C++", "Python", "JavaScript", "React", "tex"],
     libraries_or_frameworks: ["LaTex", "NodeJs", "React", "Redux", "Jupyter"],
@@ -12,7 +12,7 @@
     devEnv:{
         os:arch-linux,
         wm: bspwm,
-        code:VSCode,
+        code:vs-code,
         dotfiles: umm!,
         tags:["sh4n1","aj-ya"],
     }
