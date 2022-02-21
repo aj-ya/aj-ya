@@ -27,4 +27,4 @@
 </p>
     <img alt="spotify-github-profile" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" /> 
     <img src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" />
