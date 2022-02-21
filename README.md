@@ -1,10 +1,14 @@
 <h2 align="left">Hey,:wave: I'm Ajeya!</h2>
-<p><b>[ aj-ya@github ~/aj-ya/ ]$ </b>echo "I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS!"</p>
+
+```diff
++ [aj-ya@github! ~] $echo "I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS! " +
+```
+
 <img align="right" src="./octocat.gif" alt="octocat" />
 <pre ><code class="language-js">{
     code: ["C", "C++", "Python", "JavaScript", "React", "Tex"],
     frameworks: ["LaTex", "NodeJs", "React", "Redux", "Jupyter"],
-    learning: [".jsx", ".ts", "ReactNative", "D3JS", "k8s"],
+    learning: [".jsx", ".sh", ".ts", "ReactNative", "D3JS", "k8s"],
     tools:["git", "k8s", "docker", "npm"],
     devEnv:
     {
