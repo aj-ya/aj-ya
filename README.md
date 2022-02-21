@@ -2,7 +2,7 @@
 <p><b>[ aj-ya@github ~/aj-ya/ ]$ </b>echo "I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS!"</p>
 <div class="row">
   <div class="col-top">
-    <pre><code class="language-js">{
+    <pre ><code class="language-js">{
     code: ["C", "C++", "Python", "JavaScript", "React", "Tex"],
     frameworks: ["LaTex", "NodeJs", "React", "Redux", "Jupyter"],
     learning: [".jsx", ".ts", "ReactNative", "D3JS", "k8s"],
@@ -39,7 +39,7 @@
     <img align="right" alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" />
   </div>
 </div>
-<style>
+<style >
   .row {
     width: 100%;
     display: flex;
