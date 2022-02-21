@@ -1,5 +1,4 @@
 <h2 align="left">Hey,:wave: I'm Ajeya!</h2>
-<hr>
 <p ><b>I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS!</b></p> 
 <img align="right" src="./octocat.gif" alt="octocat"></img>
 
@@ -48,5 +47,5 @@
 <!-- <img width="%" height="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aj-ya&theme=dracula" alt="stat-graph" class="stat-card"></img> -->
 
   ![HitCount](http://hits.dwyl.com/aj-ya/aj-ya.svg?style=flat&show=unique)
-  
+
 <!-- ![repos per lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aj-ya&theme=dracula) ![lang per commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aj-ya&theme=dracula) -->
