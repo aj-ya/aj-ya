@@ -1,8 +1,7 @@
 <h2 align="left">Hey,:wave: I'm Ajeya!</h2>
 <p><b>[ aj-ya@github ~/aj-ya/ ]$ </b>echo "I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS!"</p>
-<div class="row">
-  <div class="col-top">
-    <pre ><code class="language-js">{
+<img align="right" src="./octocat.gif" alt="octocat" />
+<pre ><code class="language-js">{
     code: ["C", "C++", "Python", "JavaScript", "React", "Tex"],
     frameworks: ["LaTex", "NodeJs", "React", "Redux", "Jupyter"],
     learning: [".jsx", ".ts", "ReactNative", "D3JS", "k8s"],
@@ -15,12 +14,7 @@
         tags:["sh4n1","aj-ya"],
     }
 }</code></pre>
-    </div>
-    <div class="col-top">
-    <img src="./octocat.gif" alt="octocat" />
-    </div>
-</div>
-<p style="padding-top:5px"><b>Contact me @</b> &nbsp; <a style="display:inline" href="https://www.github.com/aj-ya">
+<p style="padding-top:15px"><b>Contact me @</b> &nbsp; <a style="display:inline" href="https://www.github.com/aj-ya">
     <img height="15px" alt="Github" src="https://img.shields.io/badge/Github-FFFFFF?logo=Github&logoColor=black&style=plastic" />
   </a> &nbsp; <a href="https://twitter.com/bhat_ajeya">
     <img height="15px" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=plastic" />
@@ -53,8 +47,5 @@
   }
   .column2 {
     flex: 39%;
-  }
-  pre{
-      overflow-x:scroll;
   }
 </style>
