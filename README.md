@@ -1,9 +1,8 @@
 <h2 align="left">Hey,:wave: I'm Ajeya!</h2>
-<p ><b>[ aj-ya@github ~/aj-ya/ ]$ </b>echo "I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS!"</p> 
-<img align="right" src="./octocat.gif" alt="octocat"></img>
-
-```js
-{
+<p><b>[ aj-ya@github ~/aj-ya/ ]$ </b>echo "I'm a 20 y/o CSE-undergrad student from India:india: with a passion for FOSS!"</p>
+<div class="row">
+  <div class="col-top">
+    <pre><code class="language-js">{
     code: ["C", "C++", "Python", "JavaScript", "React", "Tex"],
     frameworks: ["LaTex", "NodeJs", "React", "Redux", "Jupyter"],
     learning: [".jsx", ".ts", "ReactNative", "D3JS", "k8s"],
@@ -15,42 +14,47 @@
         dotfiles: umm!,
         tags:["sh4n1","aj-ya"],
     }
-}
-```
-
-<p style="padding-top:5px"><b>Contact me @ </b> &nbsp; <a style="display:inline" href="https://www.github.com/aj-ya">
-  <img height="15px"
-    alt="Github"
-    src="https://img.shields.io/badge/Github-FFFFFF?logo=Github&logoColor=black&style=plastic"
-  />
-</a> &nbsp; <a href="https://twitter.com/bhat_ajeya">
-  <img height="15px"
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=plastic"
-  />
-</a> &nbsp; <a href="https://steamcommunity.com/id/sh4n1/">
-  <img height="15px"
-    alt="Steam"
-    src="https://img.shields.io/badge/Steam-000?logo=Steam&logoColor=white&style=plastic"
-  />
-</a> &nbsp; <a href="https://www.linkedin.com/in/aj-ya/">
-  <img height="15px"
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=plastic"
-  />
-</a>
-</p>
-<!--![](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)-->
-<div>
-<img width="" height=""  src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" class="stat-card"></img> <img width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" class="stat-card"></img>
-<img
-align="right"
-width="25%"
-alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true"
-/>
+}</code></pre>
+    </div>
+    <div class="col-top">
+    <img src="./octocat.gif" alt="octocat" />
+    </div>
 </div>
-<!-- <img width="%" height="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aj-ya&theme=dracula" alt="stat-graph" class="stat-card"></img> -->
-
-  ![HitCount](http://hits.dwyl.com/aj-ya/aj-ya.svg?style=flat&show=unique)
-
-<!-- ![repos per lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aj-ya&theme=dracula) ![lang per commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aj-ya&theme=dracula) -->
+<p style="padding-top:5px"><b>Contact me @</b> &nbsp; <a style="display:inline" href="https://www.github.com/aj-ya">
+    <img height="15px" alt="Github" src="https://img.shields.io/badge/Github-FFFFFF?logo=Github&logoColor=black&style=plastic" />
+  </a> &nbsp; <a href="https://twitter.com/bhat_ajeya">
+    <img height="15px" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=plastic" />
+  </a> &nbsp; <a href="https://steamcommunity.com/id/sh4n1/">
+    <img height="15px" alt="Steam" src="https://img.shields.io/badge/Steam-000?logo=Steam&logoColor=white&style=plastic" />
+  </a> &nbsp; <a href="https://www.linkedin.com/in/aj-ya/">
+    <img height="15px" alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=plastic" />
+  </a>
+</p>
+<div class="row">
+  <div class="column1">
+    <img src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" />
+  </div>
+  <div class="column2">
+    <img align="right" alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" />
+  </div>
+</div>
+<style>
+  .row {
+    width: 100%;
+    display: flex;
+  }
+  .col-top {
+    flex: 50%;
+  }
+  .column1 {
+    flex: 60%;
+    align: left;
+  }
+  .column2 {
+    flex: 39%;
+  }
+  pre{
+      overflow-x:scroll;
+  }
+</style>
