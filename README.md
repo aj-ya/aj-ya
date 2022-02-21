@@ -26,11 +26,11 @@
   </a>
 </p>
 <div class="row" style="width:100%;display:flex;">
-  <div class="column1" style="flex:60%;align:left">
+  <div class="column1" style="width:60%;align:left">
     <img src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" />
   </div>
-  <div class="column2" style="flex:39%;">
+  <div class="column2" style="width:39%;">
     <img align="right" alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" />
   </div>
 </div>
