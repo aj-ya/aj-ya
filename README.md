@@ -5,8 +5,10 @@
 
 ```js
 {
-    code: ["C", "C++", "Python", "JavaScript", "React", "tex"],
-    libraries_or_frameworks: ["LaTex", "NodeJs", "React", "Redux", "Jupyter"],
+    code: ["C", "C++", "Python", "JavaScript", 
+           "React", "tex"],
+    libraries_or_frameworks: ["LaTex", "NodeJs", "React",
+                              "Redux", "Jupyter"],
     learning: [".jsx", ".ts", "ReactNative", "D3JS", "k8s"],
     tools:["git", "k8s", "docker", "npm"],
     devEnv:{
@@ -42,7 +44,8 @@
 </a>
 </p>
 <!--![](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)-->
-<img src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" class="stat-card"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" class="stat-card"></img>
+<div style="width:100vw">
+<img width="45%" height=""  src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" class="stat-card"></img> <img width="33%" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" class="stat-card"></img>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aj-ya&theme=dracula" alt="stat-graph" class="stat-card"></img>
-
+<div>
 <!-- ![repos per lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aj-ya&theme=dracula) ![lang per commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aj-ya&theme=dracula) -->
