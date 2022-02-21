@@ -25,12 +25,6 @@
     <img height="15px" alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=plastic" />
   </a>
 </p>
-<div class="row" style="width:100%;display:flex;">
-  <p class="column1" style="width:60%;align:left">
+    <img alt="spotify-github-profile" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-ya&layout=compact&exclude_repo=miniProj&theme=radical" alt="github-top-langs" />
-  </p>
-  <p class="column2" style="width:39%;">
-    <img align="right" alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" />
-  </p>
-</div>
