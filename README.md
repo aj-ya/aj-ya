@@ -6,7 +6,8 @@
     frameworks: ["LaTex", "NodeJs", "React", "Redux", "Jupyter"],
     learning: [".jsx", ".ts", "ReactNative", "D3JS", "k8s"],
     tools:["git", "k8s", "docker", "npm"],
-    devEnv:{
+    devEnv:
+    {
         os:arch-linux,
         wm: bspwm,
         code:vs-code,
