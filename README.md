@@ -1,8 +1,10 @@
 <h2 align="left">Hey,:wave: I'm Ajeya!</h2>
 
-```diff
+<pre>
+<code class="language-sh">
 + [aj-ya@github! ~] $whoami +
-```
+</code>
+</pre>
 
 <img align="right" src="./octocat.gif" alt="octocat" />
 <pre ><code class="language-js">{
