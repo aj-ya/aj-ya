@@ -24,8 +24,6 @@
     <img height="15px" alt="Github" src="https://img.shields.io/badge/Github-FFFFFF?logo=Github&logoColor=black&style=plastic" />
   </a> &nbsp; <a href="https://twitter.com/bhat_ajeya">
     <img height="15px" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=plastic" />
-  </a> &nbsp; <a href="https://steamcommunity.com/id/sh4n1/">
-    <img height="15px" alt="Steam" src="https://img.shields.io/badge/Steam-000?logo=Steam&logoColor=white&style=plastic" />
   </a> &nbsp; <a href="https://www.linkedin.com/in/aj-ya/">
     <img height="15px" alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=plastic" />
   </a>
