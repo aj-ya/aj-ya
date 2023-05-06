@@ -1,9 +1,7 @@
 <h2 align="left">Hey,:wave: I'm Ajeya!</h2>
 
 <pre>
-<code class="language-shell">
-[aj-ya@github! ~] $whoami
-</code>
+<code class="language-shell">[aj-ya@github! ~] $whoami</code>
 </pre>
 
 <img align="right" src="./octocat.gif" alt="octocat" />
