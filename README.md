@@ -1,7 +1,7 @@
 <h2 align="left">Hey,:wave: I'm Ajeya!</h2>
 
 ```diff
-+ [aj-ya@github! ~] $echo "I'm a CSE-undergrad student with a passion for FOSS! " +
++ [aj-ya@github! ~] $whoami +
 ```
 
 <img align="right" src="./octocat.gif" alt="octocat" />
