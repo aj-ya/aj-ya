@@ -1,4 +1,4 @@
-<h2 align="left">Hey,:wave: I'm Ajeya!</h2>
+<h2 align="left">Hey, :wave: I'm Ajeya!</h2>
 
 <pre>
 <code class="language-shell">[aj-ya@github! ~] $whoami</code>
