@@ -1,9 +1,10 @@
 <h2 align="left">Hey, :wave: I'm Ajeya!</h2>
-
+<!--
 <pre>
 <code class="language-shell">[aj-ya@github! ~] $whoami</code>
 </pre>
-
+<--
+<!--
 <img align="right" src="./octocat.gif" alt="octocat" />
 <pre ><code class="language-js">{
     code: ["C", "C++", "Python", "JavaScript", "React", "Tex"],
@@ -28,6 +29,7 @@
     <img height="15px" alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=plastic" />
   </a>
 </p>
+-->
 <!--
     <img alt="spotify-github-profile" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=ajeybhat82-5&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=true" /> -->
 <!--    <img src="https://github-readme-stats.vercel.app/api?username=aj-ya&show_icons=true&theme=radical&hide=stars&count_private=true" alt="github-stats" /> -->
